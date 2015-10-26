@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-26T10:49:47.385Z'
-dateModified: '2015-10-26T10:49:35.901Z'
+datePublished: '2015-10-26T10:50:34.881Z'
+dateModified: '2015-10-26T10:50:31.318Z'
 title: Coffee at Camper
 authors: []
 publisher:
