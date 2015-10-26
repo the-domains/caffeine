@@ -1,0 +1,23 @@
+name: caffeine
+favicon: null
+layout_spectrum: 0.6813956922851503
+typography_spectrum: 0.3375507143791765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8962673810310662
+  lightness: 0.41163552715443075
+  saturation: 0.13395180087536573
+  rhythmicContrast: 0.8637846510391682
+purpose: []
