@@ -2,6 +2,7 @@ name: caffeine
 favicon: null
 layout_spectrum: 0.43222
 typography_spectrum: 0.4064
+title: Coffee
 cta:
   domain: null
   bucket: null
